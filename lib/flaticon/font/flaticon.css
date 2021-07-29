@@ -1,0 +1,53 @@
+@font-face {
+    font-family: "flaticon";
+    src: url("./flaticon.ttf?7ad17ca7a169825535a8fa69bc6709ff") format("truetype"),
+url("./flaticon.woff?7ad17ca7a169825535a8fa69bc6709ff") format("woff"),
+url("./flaticon.woff2?7ad17ca7a169825535a8fa69bc6709ff") format("woff2"),
+url("./flaticon.eot?7ad17ca7a169825535a8fa69bc6709ff#iefix") format("embedded-opentype"),
+url("./flaticon.svg?7ad17ca7a169825535a8fa69bc6709ff#flaticon") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-housekeeper:before {
+    content: "\f101";
+}
+.flaticon-water:before {
+    content: "\f102";
+}
+.flaticon-cleaning-service:before {
+    content: "\f103";
+}
+.flaticon-appointment:before {
+    content: "\f104";
+}
+.flaticon-send:before {
+    content: "\f105";
+}
+.flaticon-address:before {
+    content: "\f106";
+}
+.flaticon-hygiene:before {
+    content: "\f107";
+}
+.flaticon-call-center-agent:before {
+    content: "\f108";
+}
+.flaticon-human:before {
+    content: "\f109";
+}
+.flaticon-deal:before {
+    content: "\f10a";
+}
+.flaticon-phone-call:before {
+    content: "\f10b";
+}
